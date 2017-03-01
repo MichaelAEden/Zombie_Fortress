@@ -1,5 +1,5 @@
 <h1>Zombie Fortress</h1>
-<h2>2D sidecrolling game written in Java.</h2>
+<p>A 2D sidescrolling game written in Java.</p>
 <br />
 <br />
 <h3>Objective</h3>
